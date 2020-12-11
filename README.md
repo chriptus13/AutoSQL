@@ -24,8 +24,8 @@ There were three phases in the project:
 ## Technologies used
 
 * C#
-* .NET `System.Reflection` API
-* .NET `System.Reflection.Emit` API
+* .NET [`System.Reflection`](https://docs.microsoft.com/en-us/dotnet/api/system.reflection) API
+* .NET [`System.Reflection.Emit`](https://docs.microsoft.com/en-us/dotnet/api/system.reflection.emit) API
 * Microsoft intermediate language (MSIL)
 * SQL
 
